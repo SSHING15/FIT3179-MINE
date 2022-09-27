@@ -1,0 +1,1234 @@
+Country,Year,Cal
+,,
+Africa,1961,1993.467372
+Africa,1962,2024.028233
+Africa,1963,2026.870224
+Africa,1964,2035.992621
+Africa,1965,2041.25666
+Africa,1966,2008.277613
+Africa,1967,2040.789173
+Africa,1968,2052.068997
+Africa,1969,2084.761294
+Africa,1970,2104.835397
+Africa,1971,2086.736991
+Africa,1972,2048.46844
+Africa,1973,2078.73861
+Africa,1974,2118.96014
+Africa,1975,2126.998081
+Africa,1976,2125.255315
+Africa,1977,2140.324436
+Africa,1978,2166.703689
+Africa,1979,2194.901123
+Africa,1980,2229.945354
+Africa,1981,2238.060018
+Africa,1982,2243.641923
+Africa,1983,2208.065586
+Africa,1984,2182.195076
+Africa,1985,2234.48846
+Africa,1986,2269.957099
+Africa,1987,2256.716309
+Africa,1988,2276.737126
+Africa,1989,2280.37703
+Africa,1990,2294.194485
+Africa,1991,2323.513523
+Africa,1992,2321.374108
+Africa,1993,2340.699058
+Africa,1994,2355.855733
+Africa,1995,2376.428864
+Africa,1996,2390.92661
+Africa,1997,2404.471336
+Africa,1998,2424.89845
+Africa,1999,2434.923099
+Africa,2000,2435.517267
+Africa,2001,2459.619351
+Africa,2002,2475.209278
+Africa,2003,2482.515957
+Africa,2004,2495.301144
+Africa,2005,2528.113201
+Africa,2006,2548.907079
+Africa,2007,2553.181198
+Africa,2008,2570.215859
+Africa,2009,2578.412784
+Africa,2010,2597.919383
+Africa,2011,2618.564344
+Africa,2012,2623.85158
+Africa,2013,2631.282611
+Africa,2014,2624.316674
+Africa,2015,2609.484738
+Africa,2016,2603.437416
+Africa,2017,2599.721453
+Africa,2018,2604.253905
+Asia,1961,1783.433781
+Asia,1962,1847.68984
+Asia,1963,1861.176588
+Asia,1964,1908.839012
+Asia,1965,1943.954126
+Asia,1966,1974.497964
+Asia,1967,1967.658556
+Asia,1968,1957.658037
+Asia,1969,1967.846067
+Asia,1970,2039.460208
+Asia,1971,2002.000319
+Asia,1972,1997.221541
+Asia,1973,2055.379275
+Asia,1974,2028.737585
+Asia,1975,2059.873911
+Asia,1976,2018.265425
+Asia,1977,2080.808468
+Asia,1978,2169.449778
+Asia,1979,2150.034964
+Asia,1980,2166.101725
+Asia,1981,2194.915272
+Asia,1982,2251.941986
+Asia,1983,2336.847934
+Asia,1984,2354.989988
+Asia,1985,2335.138734
+Asia,1986,2338.110662
+Asia,1987,2358.319384
+Asia,1988,2383.152192
+Asia,1989,2414.36438
+Asia,1990,2390.821285
+Asia,1991,2379.780226
+Asia,1992,2412.071448
+Asia,1993,2424.004295
+Asia,1994,2462.023951
+Asia,1995,2507.881301
+Asia,1996,2520.325545
+Asia,1997,2535.481114
+Asia,1998,2548.155968
+Asia,1999,2565.21178
+Asia,2000,2574.025813
+Asia,2001,2560.67274
+Asia,2002,2553.208135
+Asia,2003,2559.480331
+Asia,2004,2568.963132
+Asia,2005,2582.474422
+Asia,2006,2605.576259
+Asia,2007,2649.182111
+Asia,2008,2676.293803
+Asia,2009,2684.492485
+Asia,2010,2718.424545
+Asia,2011,2739.995271
+Asia,2012,2747.705964
+Asia,2013,2760.24901
+Asia,2014,2779.581186
+Asia,2015,2793.490096
+Asia,2016,2800.148854
+Asia,2017,2822.570362
+Asia,2018,2833.014161
+Australia,1961,3091
+Australia,1962,3113
+Australia,1963,3169
+Australia,1964,3146
+Australia,1965,3095
+Australia,1966,3166
+Australia,1967,3106
+Australia,1968,3127
+Australia,1969,3131
+Australia,1970,3159
+Australia,1971,3183
+Australia,1972,3221
+Australia,1973,3098
+Australia,1974,3018
+Australia,1975,3093
+Australia,1976,3115
+Australia,1977,3071
+Australia,1978,3022
+Australia,1979,3009
+Australia,1980,3060
+Australia,1981,3069
+Australia,1982,3104
+Australia,1983,3038
+Australia,1984,3083
+Australia,1985,3121
+Australia,1986,3083
+Australia,1987,3110
+Australia,1988,3115
+Australia,1989,3133
+Australia,1990,3174
+Australia,1991,3121
+Australia,1992,3125
+Australia,1993,3042
+Australia,1994,3054
+Australia,1995,3099
+Australia,1996,3077
+Australia,1997,3096
+Australia,1998,3015
+Australia,1999,3014
+Australia,2000,2991
+Australia,2001,3048
+Australia,2002,3077
+Australia,2003,3104
+Australia,2004,3052
+Australia,2005,3099
+Australia,2006,3156
+Australia,2007,3198
+Australia,2008,3199
+Australia,2009,3205
+Australia,2010,3213
+Australia,2011,3237
+Australia,2012,3257
+Australia,2013,3276
+Australia,2014,3407
+Australia,2015,3393
+Australia,2016,3416
+Australia,2017,3406
+Australia,2018,3391
+Belgium,2000,3709
+Belgium,2001,3747
+Belgium,2002,3749
+Belgium,2003,3717
+Belgium,2004,3722
+Belgium,2005,3716
+Belgium,2006,3716
+Belgium,2007,3713
+Belgium,2008,3702
+Belgium,2009,3697
+Belgium,2010,3707
+Belgium,2011,3720
+Belgium,2012,3715
+Belgium,2013,3733
+Belgium,2014,3789
+Belgium,2015,3804
+Belgium,2016,3774
+Belgium,2017,3768
+Belgium,2018,3769
+Cambodia,1961,1913
+Cambodia,1962,1883
+Cambodia,1963,1945
+Cambodia,1964,1915
+Cambodia,1965,1928
+Cambodia,1966,1945
+Cambodia,1967,1973
+Cambodia,1968,2017
+Cambodia,1969,2017
+Cambodia,1970,2088
+Cambodia,1971,2069
+Cambodia,1972,2016
+Cambodia,1973,1938
+Cambodia,1974,1902
+Cambodia,1975,1596
+Cambodia,1976,1519
+Cambodia,1977,1537
+Cambodia,1978,1580
+Cambodia,1979,1616
+Cambodia,1980,1682
+Cambodia,1981,1776
+Cambodia,1982,1812
+Cambodia,1983,1881
+Cambodia,1984,1855
+Cambodia,1985,1795
+Cambodia,1986,1782
+Cambodia,1987,1904
+Cambodia,1988,1942
+Cambodia,1989,1885
+Cambodia,1990,1938
+Cambodia,1991,2009
+Cambodia,1992,2037
+Cambodia,1993,2026
+Cambodia,1994,2038
+Cambodia,1995,2038
+Cambodia,1996,1901
+Cambodia,1997,1895
+Cambodia,1998,1977
+Cambodia,1999,2052
+Cambodia,2000,2115
+Cambodia,2001,2172
+Cambodia,2002,2264
+Cambodia,2003,2261
+Cambodia,2004,2275
+Cambodia,2005,2327
+Cambodia,2006,2377
+Cambodia,2007,2388
+Cambodia,2008,2403
+Cambodia,2009,2417
+Cambodia,2010,2417
+Cambodia,2011,2426
+Cambodia,2012,2432
+Cambodia,2013,2477
+Cambodia,2014,2504
+Cambodia,2015,2487
+Cambodia,2016,2484
+Cambodia,2017,2501
+Cambodia,2018,2492
+Canada,1961,2807
+Canada,1962,2843
+Canada,1963,2899
+Canada,1964,2795
+Canada,1965,2924
+Canada,1966,2915
+Canada,1967,2948
+Canada,1968,2932
+Canada,1969,2984
+Canada,1970,2958
+Canada,1971,2925
+Canada,1972,2935
+Canada,1973,2965
+Canada,1974,2974
+Canada,1975,2880
+Canada,1976,3031
+Canada,1977,3006
+Canada,1978,2934
+Canada,1979,2928
+Canada,1980,2950
+Canada,1981,2903
+Canada,1982,2961
+Canada,1983,2916
+Canada,1984,2993
+Canada,1985,3042
+Canada,1986,3086
+Canada,1987,3139
+Canada,1988,3015
+Canada,1989,3041
+Canada,1990,3023
+Canada,1991,3042
+Canada,1992,3092
+Canada,1993,3122
+Canada,1994,3209
+Canada,1995,3208
+Canada,1996,3252
+Canada,1997,3387
+Canada,1998,3459
+Canada,1999,3499
+Canada,2000,3506
+Canada,2001,3501
+Canada,2002,3496
+Canada,2003,3518
+Canada,2004,3525
+Canada,2005,3475
+Canada,2006,3470
+Canada,2007,3483
+Canada,2008,3465
+Canada,2009,3440
+Canada,2010,3447
+Canada,2011,3474
+Canada,2012,3485
+Canada,2013,3494
+Canada,2014,3414
+Canada,2015,3419
+Canada,2016,3494
+Canada,2017,3501
+Canada,2018,3566
+China,1961,1415
+China,1962,1526
+China,1963,1594
+China,1964,1666
+China,1965,1797
+China,1966,1865
+China,1967,1817
+China,1968,1758
+China,1969,1731
+China,1970,1840
+China,1971,1845
+China,1972,1828
+China,1973,1897
+China,1974,1893
+China,1975,1909
+China,1976,1875
+China,1977,1914
+China,1978,2062
+China,1979,2077
+China,1980,2146
+China,1981,2164
+China,1982,2328
+China,1983,2399
+China,1984,2433
+China,1985,2429
+China,1986,2424
+China,1987,2439
+China,1988,2416
+China,1989,2404
+China,1990,2504
+China,1991,2431
+China,1992,2456
+China,1993,2538
+China,1994,2604
+China,1995,2691
+China,1996,2695
+China,1997,2725
+China,1998,2770
+China,1999,2763
+China,2000,2808
+China,2001,2816
+China,2002,2832
+China,2003,2833
+China,2004,2857
+China,2005,2879
+China,2006,2883
+China,2007,2919
+China,2008,2977
+China,2009,2994
+China,2010,3044
+China,2011,3081
+China,2012,3100
+China,2013,3108
+China,2014,3151
+China,2015,3192
+China,2016,3159
+China,2017,3179
+China,2018,3206
+Egypt,1961,2076
+Egypt,1962,2153
+Egypt,1963,2166
+Egypt,1964,2201
+Egypt,1965,2229
+Egypt,1966,2285
+Egypt,1967,2228
+Egypt,1968,2268
+Egypt,1969,2268
+Egypt,1970,2272
+Egypt,1971,2262
+Egypt,1972,2304
+Egypt,1973,2347
+Egypt,1974,2392
+Egypt,1975,2430
+Egypt,1976,2514
+Egypt,1977,2558
+Egypt,1978,2653
+Egypt,1979,2776
+Egypt,1980,2857
+Egypt,1981,3002
+Egypt,1982,3064
+Egypt,1983,3052
+Egypt,1984,3057
+Egypt,1985,3069
+Egypt,1986,3061
+Egypt,1987,3136
+Egypt,1988,3128
+Egypt,1989,3106
+Egypt,1990,3181
+Egypt,1991,3171
+Egypt,1992,3175
+Egypt,1993,3197
+Egypt,1994,3259
+Egypt,1995,3315
+Egypt,1996,3332
+Egypt,1997,3361
+Egypt,1998,3339
+Egypt,1999,3356
+Egypt,2000,3368
+Egypt,2001,3409
+Egypt,2002,3434
+Egypt,2003,3379
+Egypt,2004,3309
+Egypt,2005,3367
+Egypt,2006,3389
+Egypt,2007,3445
+Egypt,2008,3490
+Egypt,2009,3441
+Egypt,2010,3507
+Egypt,2011,3549
+Egypt,2012,3561
+Egypt,2013,3522
+Egypt,2014,3388
+Egypt,2015,3388
+Egypt,2016,3336
+Egypt,2017,3344
+Egypt,2018,3292
+Ethiopia,1993,1508
+Ethiopia,1994,1545
+Ethiopia,1995,1571
+Ethiopia,1996,1655
+Ethiopia,1997,1684
+Ethiopia,1998,1684
+Ethiopia,1999,1727
+Ethiopia,2000,1786
+Ethiopia,2001,1829
+Ethiopia,2002,1844
+Ethiopia,2003,1884
+Ethiopia,2004,1882
+Ethiopia,2005,1978
+Ethiopia,2006,1967
+Ethiopia,2007,1957
+Ethiopia,2008,2018
+Ethiopia,2009,2052
+Ethiopia,2010,2080
+Ethiopia,2011,2103
+Ethiopia,2012,2124
+Ethiopia,2013,2131
+Ethiopia,2014,2250
+Ethiopia,2015,2280
+Ethiopia,2016,2324
+Ethiopia,2017,2334
+Ethiopia,2018,2338
+Europe,1961,3039.026843
+Europe,1962,3085.553827
+Europe,1963,3109.950291
+Europe,1964,3115.731311
+Europe,1965,3139.67693
+Europe,1966,3156.971659
+Europe,1967,3173.034579
+Europe,1968,3208.550206
+Europe,1969,3207.866944
+Europe,1970,3252.155337
+Europe,1971,3251.033926
+Europe,1972,3240.383684
+Europe,1973,3274.552117
+Europe,1974,3282.650668
+Europe,1975,3269.515694
+Europe,1976,3319.331937
+Europe,1977,3293.845454
+Europe,1978,3323.828774
+Europe,1979,3341.315322
+Europe,1980,3345.217704
+Europe,1981,3311.292609
+Europe,1982,3320.917735
+Europe,1983,3330.840962
+Europe,1984,3338.847179
+Europe,1985,3363.493358
+Europe,1986,3366.642433
+Europe,1987,3397.467799
+Europe,1988,3411.430838
+Europe,1989,3396.7878
+Europe,1990,3392.434631
+Europe,1991,3265.571605
+Europe,1992,3267.781411
+Europe,1993,3236.655835
+Europe,1994,3200.179793
+Europe,1995,3196.993236
+Europe,1996,3201.314351
+Europe,1997,3201.030299
+Europe,1998,3239.984152
+Europe,1999,3243.736029
+Europe,2000,3261.140095
+Europe,2001,3292.321775
+Europe,2002,3322.898852
+Europe,2003,3310.260845
+Europe,2004,3337.572688
+Europe,2005,3354.252464
+Europe,2006,3374.933295
+Europe,2007,3386.919837
+Europe,2008,3391.940753
+Europe,2009,3379.378879
+Europe,2010,3379.125942
+Europe,2011,3396.784179
+Europe,2012,3391.679629
+Europe,2013,3398.334964
+Europe,2014,3381.499097
+Europe,2015,3392.306632
+Europe,2016,3400.253453
+Europe,2017,3416.811169
+Europe,2018,3416.92502
+France,1961,3194
+France,1962,3258
+France,1963,3233
+France,1964,3220
+France,1965,3233
+France,1966,3219
+France,1967,3278
+France,1968,3279
+France,1969,3284
+France,1970,3306
+France,1971,3288
+France,1972,3255
+France,1973,3269
+France,1974,3272
+France,1975,3242
+France,1976,3276
+France,1977,3337
+France,1978,3382
+France,1979,3379
+France,1980,3375
+France,1981,3417
+France,1982,3419
+France,1983,3456
+France,1984,3444
+France,1985,3486
+France,1986,3462
+France,1987,3531
+France,1988,3560
+France,1989,3556
+France,1990,3506
+France,1991,3541
+France,1992,3549
+France,1993,3543
+France,1994,3512
+France,1995,3534
+France,1996,3519
+France,1997,3547
+France,1998,3593
+France,1999,3604
+France,2000,3605
+France,2001,3640
+France,2002,3656
+France,2003,3587
+France,2004,3555
+France,2005,3538
+France,2006,3513
+France,2007,3466
+France,2008,3551
+France,2009,3530
+France,2010,3536
+France,2011,3514
+France,2012,3460
+France,2013,3482
+France,2014,3411
+France,2015,3488
+France,2016,3532
+France,2017,3510
+France,2018,3502
+Hong Kong,1961,2592
+Hong Kong,1962,2603
+Hong Kong,1963,2611
+Hong Kong,1964,2597
+Hong Kong,1965,2603
+Hong Kong,1966,2642
+Hong Kong,1967,2688
+Hong Kong,1968,2771
+Hong Kong,1969,2793
+Hong Kong,1970,2881
+Hong Kong,1971,2926
+Hong Kong,1972,2959
+Hong Kong,1973,2966
+Hong Kong,1974,2936
+Hong Kong,1975,2911
+Hong Kong,1976,2930
+Hong Kong,1977,2925
+Hong Kong,1978,2899
+Hong Kong,1979,2942
+Hong Kong,1980,2919
+Hong Kong,1981,2970
+Hong Kong,1982,3002
+Hong Kong,1983,3052
+Hong Kong,1984,3054
+Hong Kong,1985,3071
+Hong Kong,1986,3106
+Hong Kong,1987,3169
+Hong Kong,1988,3205
+Hong Kong,1989,3239
+Hong Kong,1990,3180
+Hong Kong,1991,3187
+Hong Kong,1992,3093
+Hong Kong,1993,3158
+Hong Kong,1994,3208
+Hong Kong,1995,3252
+Hong Kong,1996,3162
+Hong Kong,1997,3127
+Hong Kong,1998,3037
+Hong Kong,1999,3053
+Hong Kong,2000,3049
+Hong Kong,2001,3082
+Hong Kong,2002,3125
+Hong Kong,2003,3179
+Hong Kong,2004,3208
+Hong Kong,2005,3224
+Hong Kong,2006,3246
+Hong Kong,2007,3246
+Hong Kong,2008,3241
+Hong Kong,2009,3255
+Hong Kong,2010,3256
+Hong Kong,2011,3259
+Hong Kong,2012,3281
+Hong Kong,2013,3290
+Hong Kong,2014,3250
+Hong Kong,2015,3202
+Hong Kong,2016,3226
+Hong Kong,2017,3269
+Hong Kong,2018,3267
+India,1961,2010
+India,1962,2052
+India,1963,1973
+India,1964,1995
+India,1965,1931
+India,1966,1939
+India,1967,1991
+India,1968,2010
+India,1969,2036
+India,1970,2111
+India,1971,1990
+India,1972,1985
+India,1973,2046
+India,1974,1938
+India,1975,2060
+India,1976,1923
+India,1977,2106
+India,1978,2148
+India,1979,2025
+India,1980,1994
+India,1981,2056
+India,1982,2029
+India,1983,2208
+India,1984,2215
+India,1985,2158
+India,1986,2160
+India,1987,2173
+India,1988,2276
+India,1989,2367
+India,1990,2205
+India,1991,2297
+India,1992,2333
+India,1993,2269
+India,1994,2292
+India,1995,2324
+India,1996,2344
+India,1997,2369
+India,1998,2361
+India,1999,2398
+India,2000,2380
+India,2001,2333
+India,2002,2285
+India,2003,2282
+India,2004,2256
+India,2005,2270
+India,2006,2334
+India,2007,2400
+India,2008,2427
+India,2009,2415
+India,2010,2442
+India,2011,2455
+India,2012,2435
+India,2013,2459
+India,2014,2460
+India,2015,2454
+India,2016,2498
+India,2017,2531
+India,2018,2533
+Japan,1961,2525
+Japan,1962,2572
+Japan,1963,2608
+Japan,1964,2631
+Japan,1965,2620
+Japan,1966,2641
+Japan,1967,2689
+Japan,1968,2699
+Japan,1969,2698
+Japan,1970,2737
+Japan,1971,2728
+Japan,1972,2781
+Japan,1973,2772
+Japan,1974,2742
+Japan,1975,2716
+Japan,1976,2751
+Japan,1977,2774
+Japan,1978,2790
+Japan,1979,2807
+Japan,1980,2798
+Japan,1981,2750
+Japan,1982,2813
+Japan,1983,2829
+Japan,1984,2827
+Japan,1985,2861
+Japan,1986,2874
+Japan,1987,2895
+Japan,1988,2941
+Japan,1989,2969
+Japan,1990,2948
+Japan,1991,2934
+Japan,1992,2943
+Japan,1993,2926
+Japan,1994,2932
+Japan,1995,2920
+Japan,1996,2963
+Japan,1997,2938
+Japan,1998,2895
+Japan,1999,2897
+Japan,2000,2899
+Japan,2001,2889
+Japan,2002,2853
+Japan,2003,2842
+Japan,2004,2842
+Japan,2005,2829
+Japan,2006,2778
+Japan,2007,2817
+Japan,2008,2734
+Japan,2009,2675
+Japan,2010,2685
+Japan,2011,2712
+Japan,2012,2740
+Japan,2013,2726
+Japan,2014,2720
+Japan,2015,2701
+Japan,2016,2695
+Japan,2017,2712
+Japan,2018,2705
+North Korea,1961,1879
+North Korea,1962,1906
+North Korea,1963,2018
+North Korea,1964,2100
+North Korea,1965,1956
+North Korea,1966,2015
+North Korea,1967,1910
+North Korea,1968,1925
+North Korea,1969,2093
+North Korea,1970,2072
+North Korea,1971,2097
+North Korea,1972,2085
+North Korea,1973,2150
+North Korea,1974,2055
+North Korea,1975,2126
+North Korea,1976,2239
+North Korea,1977,2197
+North Korea,1978,2198
+North Korea,1979,2342
+North Korea,1980,2193
+North Korea,1981,2296
+North Korea,1982,2008
+North Korea,1983,2030
+North Korea,1984,2070
+North Korea,1985,2070
+North Korea,1986,2177
+North Korea,1987,2178
+North Korea,1988,2127
+North Korea,1989,2231
+North Korea,1990,2370
+North Korea,1991,2368
+North Korea,1992,2222
+North Korea,1993,2276
+North Korea,1994,2246
+North Korea,1995,2103
+North Korea,1996,2080
+North Korea,1997,2133
+North Korea,1998,2121
+North Korea,1999,2112
+North Korea,2000,2147
+North Korea,2001,2096
+North Korea,2002,2182
+North Korea,2003,2189
+North Korea,2004,2206
+North Korea,2005,2180
+North Korea,2006,2141
+North Korea,2007,2109
+North Korea,2008,2095
+North Korea,2009,2088
+North Korea,2010,2089
+North Korea,2011,2100
+North Korea,2012,2105
+North Korea,2013,2094
+North Korea,2014,2087
+North Korea,2015,2061
+North Korea,2016,2049
+North Korea,2017,2030
+North Korea,2018,2019
+Oceania,1961,2921.474124
+Oceania,1962,2946.545212
+Oceania,1963,2988.522885
+Oceania,1964,2973.806869
+Oceania,1965,2962.417826
+Oceania,1966,2999.941
+Oceania,1967,2948.40188
+Oceania,1968,2954.610825
+Oceania,1969,2963.381146
+Oceania,1970,2949.904964
+Oceania,1971,3012.488512
+Oceania,1972,3026.80928
+Oceania,1973,2945.221296
+Oceania,1974,2882.893691
+Oceania,1975,2928.535135
+Oceania,1976,2943.500459
+Oceania,1977,2916.064657
+Oceania,1978,2888.045107
+Oceania,1979,2882.426844
+Oceania,1980,2912.588548
+Oceania,1981,2869.348312
+Oceania,1982,2935.09764
+Oceania,1983,2881.724482
+Oceania,1984,2929.416919
+Oceania,1985,2956.520142
+Oceania,1986,2934.070666
+Oceania,1987,2948.476079
+Oceania,1988,2948.158617
+Oceania,1989,2950.898979
+Oceania,1990,3006.529198
+Oceania,1991,2979.197538
+Oceania,1992,2976.356569
+Oceania,1993,2943.227284
+Oceania,1994,2943.364376
+Oceania,1995,2971.259965
+Oceania,1996,2966.769482
+Oceania,1997,2992.752047
+Oceania,1998,2940.92179
+Oceania,1999,2933.419184
+Oceania,2000,2921.677971
+Oceania,2001,2951.493776
+Oceania,2002,2977.391461
+Oceania,2003,2993.332845
+Oceania,2004,2968.492956
+Oceania,2005,3006.21334
+Oceania,2006,3038.52972
+Oceania,2007,3061.706701
+Oceania,2008,3073.071604
+Oceania,2009,3063.490121
+Oceania,2010,3069.934589
+Oceania,2011,3084.879115
+Oceania,2012,3091.182258
+Oceania,2013,3101.883822
+Oceania,2014,3148.882026
+Oceania,2015,3143.140441
+Oceania,2016,3146.794863
+Oceania,2017,3146.621897
+Oceania,2018,3139.568055
+Poland,1961,3270
+Poland,1962,3273
+Poland,1963,3291
+Poland,1964,3304
+Poland,1965,3358
+Poland,1966,3380
+Poland,1967,3376
+Poland,1968,3391
+Poland,1969,3405
+Poland,1970,3422
+Poland,1971,3429
+Poland,1972,3469
+Poland,1973,3504
+Poland,1974,3515
+Poland,1975,3539
+Poland,1976,3589
+Poland,1977,3579
+Poland,1978,3585
+Poland,1979,3586
+Poland,1980,3577
+Poland,1981,3362
+Poland,1982,3280
+Poland,1983,3357
+Poland,1984,3339
+Poland,1985,3360
+Poland,1986,3426
+Poland,1987,3454
+Poland,1988,3474
+Poland,1989,3489
+Poland,1990,3347
+Poland,1991,3288
+Poland,1992,3361
+Poland,1993,3425
+Poland,1994,3300
+Poland,1995,3320
+Poland,1996,3340
+Poland,1997,3316
+Poland,1998,3378
+Poland,1999,3384
+Poland,2000,3419
+Poland,2001,3421
+Poland,2002,3429
+Poland,2003,3421
+Poland,2004,3380
+Poland,2005,3370
+Poland,2006,3353
+Poland,2007,3364
+Poland,2008,3346
+Poland,2009,3418
+Poland,2010,3413
+Poland,2011,3443
+Poland,2012,3443
+Poland,2013,3451
+Poland,2014,3414
+Poland,2015,3373
+Poland,2016,3451
+Poland,2017,3502
+Poland,2018,3537
+Russia,1992,2925
+Russia,1993,2972
+Russia,1994,2918
+Russia,1995,2893
+Russia,1996,2787
+Russia,1997,2856
+Russia,1998,2863
+Russia,1999,2889
+Russia,2000,2877
+Russia,2001,2954
+Russia,2002,3025
+Russia,2003,3064
+Russia,2004,3113
+Russia,2005,3204
+Russia,2006,3247
+Russia,2007,3309
+Russia,2008,3312
+Russia,2009,3273
+Russia,2010,3302
+Russia,2011,3331
+Russia,2012,3366
+Russia,2013,3361
+Russia,2014,3365
+Russia,2015,3353
+Russia,2016,3339
+Russia,2017,3366
+Russia,2018,3345
+South Africa,1961,2671
+South Africa,1962,2615
+South Africa,1963,2725
+South Africa,1964,2757
+South Africa,1965,2864
+South Africa,1966,2758
+South Africa,1967,2703
+South Africa,1968,2752
+South Africa,1969,2793
+South Africa,1970,2817
+South Africa,1971,2787
+South Africa,1972,2859
+South Africa,1973,2902
+South Africa,1974,2876
+South Africa,1975,2897
+South Africa,1976,2851
+South Africa,1977,2841
+South Africa,1978,2850
+South Africa,1979,2818
+South Africa,1980,2862
+South Africa,1981,2831
+South Africa,1982,2912
+South Africa,1983,2839
+South Africa,1984,2843
+South Africa,1985,2887
+South Africa,1986,2821
+South Africa,1987,2926
+South Africa,1988,2874
+South Africa,1989,2827
+South Africa,1990,2830
+South Africa,1991,2816
+South Africa,1992,2796
+South Africa,1993,2838
+South Africa,1994,2826
+South Africa,1995,2810
+South Africa,1996,2796
+South Africa,1997,2815
+South Africa,1998,2847
+South Africa,1999,2835
+South Africa,2000,2886
+South Africa,2001,2909
+South Africa,2002,2906
+South Africa,2003,2929
+South Africa,2004,2940
+South Africa,2005,2952
+South Africa,2006,2927
+South Africa,2007,2920
+South Africa,2008,2924
+South Africa,2009,2936
+South Africa,2010,2992
+South Africa,2011,3002
+South Africa,2012,3014
+South Africa,2013,3022
+South Africa,2014,2976
+South Africa,2015,2942
+South Africa,2016,2921
+South Africa,2017,2936
+South Africa,2018,2899
+Sweden,1961,2845
+Sweden,1962,2816
+Sweden,1963,2807
+Sweden,1964,2894
+Sweden,1965,2859
+Sweden,1966,2875
+Sweden,1967,2859
+Sweden,1968,2823
+Sweden,1969,2805
+Sweden,1970,2874
+Sweden,1971,2905
+Sweden,1972,2862
+Sweden,1973,2862
+Sweden,1974,2886
+Sweden,1975,2932
+Sweden,1976,3010
+Sweden,1977,2969
+Sweden,1978,2935
+Sweden,1979,2968
+Sweden,1980,2991
+Sweden,1981,2965
+Sweden,1982,2981
+Sweden,1983,2985
+Sweden,1984,3054
+Sweden,1985,2977
+Sweden,1986,2975
+Sweden,1987,2899
+Sweden,1988,2951
+Sweden,1989,2979
+Sweden,1990,2973
+Sweden,1991,2942
+Sweden,1992,3053
+Sweden,1993,3137
+Sweden,1994,3087
+Sweden,1995,3088
+Sweden,1996,3039
+Sweden,1997,3087
+Sweden,1998,3063
+Sweden,1999,3115
+Sweden,2000,3099
+Sweden,2001,3124
+Sweden,2002,3133
+Sweden,2003,3124
+Sweden,2004,3147
+Sweden,2005,3122
+Sweden,2006,3091
+Sweden,2007,3089
+Sweden,2008,3128
+Sweden,2009,3126
+Sweden,2010,3151
+Sweden,2011,3157
+Sweden,2012,3170
+Sweden,2013,3179
+Sweden,2014,3198
+Sweden,2015,3182
+Sweden,2016,3192
+Sweden,2017,3196
+Sweden,2018,3184
+United Kingdom,1961,3231
+United Kingdom,1962,3196
+United Kingdom,1963,3225
+United Kingdom,1964,3208
+United Kingdom,1965,3240
+United Kingdom,1966,3243
+United Kingdom,1967,3224
+United Kingdom,1968,3223
+United Kingdom,1969,3239
+United Kingdom,1970,3279
+United Kingdom,1971,3245
+United Kingdom,1972,3170
+United Kingdom,1973,3237
+United Kingdom,1974,3119
+United Kingdom,1975,3126
+United Kingdom,1976,3169
+United Kingdom,1977,3160
+United Kingdom,1978,3095
+United Kingdom,1979,3164
+United Kingdom,1980,3116
+United Kingdom,1981,3091
+United Kingdom,1982,3120
+United Kingdom,1983,3114
+United Kingdom,1984,3129
+United Kingdom,1985,3192
+United Kingdom,1986,3212
+United Kingdom,1987,3227
+United Kingdom,1988,3248
+United Kingdom,1989,3217
+United Kingdom,1990,3241
+United Kingdom,1991,3208
+United Kingdom,1992,3271
+United Kingdom,1993,3218
+United Kingdom,1994,3235
+United Kingdom,1995,3185
+United Kingdom,1996,3268
+United Kingdom,1997,3328
+United Kingdom,1998,3352
+United Kingdom,1999,3400
+United Kingdom,2000,3362
+United Kingdom,2001,3400
+United Kingdom,2002,3416
+United Kingdom,2003,3400
+United Kingdom,2004,3445
+United Kingdom,2005,3438
+United Kingdom,2006,3438
+United Kingdom,2007,3417
+United Kingdom,2008,3422
+United Kingdom,2009,3412
+United Kingdom,2010,3404
+United Kingdom,2011,3417
+United Kingdom,2012,3403
+United Kingdom,2013,3424
+United Kingdom,2014,3376
+United Kingdom,2015,3393
+United Kingdom,2016,3374
+United Kingdom,2017,3393
+United Kingdom,2018,3344
+United States,1961,2880
+United States,1962,2858
+United States,1963,2860
+United States,1964,2926
+United States,1965,2922
+United States,1966,2954
+United States,1967,2978
+United States,1968,3001
+United States,1969,3033
+United States,1970,3029
+United States,1971,3052
+United States,1972,3062
+United States,1973,3040
+United States,1974,3031
+United States,1975,3033
+United States,1976,3163
+United States,1977,3135
+United States,1978,3155
+United States,1979,3214
+United States,1980,3178
+United States,1981,3218
+United States,1982,3191
+United States,1983,3230
+United States,1984,3275
+United States,1985,3380
+United States,1986,3352
+United States,1987,3450
+United States,1988,3458
+United States,1989,3433
+United States,1990,3493
+United States,1991,3522
+United States,1992,3559
+United States,1993,3605
+United States,1994,3665
+United States,1995,3580
+United States,1996,3587
+United States,1997,3648
+United States,1998,3658
+United States,1999,3673
+United States,2000,3755
+United States,2001,3707
+United States,2002,3783
+United States,2003,3777
+United States,2004,3809
+United States,2005,3828
+United States,2006,3783
+United States,2007,3757
+United States,2008,3700
+United States,2009,3645
+United States,2010,3650
+United States,2011,3649
+United States,2012,3687
+United States,2013,3682
+United States,2014,3717
+United States,2015,3735
+United States,2016,3760
+United States,2017,3778
+United States,2018,3782
+Zimbabwe,1961,2115
+Zimbabwe,1962,2161
+Zimbabwe,1963,2148
+Zimbabwe,1964,2139
+Zimbabwe,1965,2146
+Zimbabwe,1966,2150
+Zimbabwe,1967,2257
+Zimbabwe,1968,2273
+Zimbabwe,1969,2223
+Zimbabwe,1970,2288
+Zimbabwe,1971,2311
+Zimbabwe,1972,2333
+Zimbabwe,1973,2317
+Zimbabwe,1974,2318
+Zimbabwe,1975,2264
+Zimbabwe,1976,2291
+Zimbabwe,1977,2303
+Zimbabwe,1978,2284
+Zimbabwe,1979,2254
+Zimbabwe,1980,2295
+Zimbabwe,1981,2222
+Zimbabwe,1982,2224
+Zimbabwe,1983,2183
+Zimbabwe,1984,2132
+Zimbabwe,1985,2087
+Zimbabwe,1986,2055
+Zimbabwe,1987,2016
+Zimbabwe,1988,2051
+Zimbabwe,1989,2050
+Zimbabwe,1990,2013
+Zimbabwe,1991,1963
+Zimbabwe,1992,1955
+Zimbabwe,1993,1943
+Zimbabwe,1994,1931
+Zimbabwe,1995,1944
+Zimbabwe,1996,1982
+Zimbabwe,1997,2009
+Zimbabwe,1998,2013
+Zimbabwe,1999,1996
+Zimbabwe,2000,1979
+Zimbabwe,2001,2028
+Zimbabwe,2002,2021
+Zimbabwe,2003,2010
+Zimbabwe,2004,2044
+Zimbabwe,2005,2025
+Zimbabwe,2006,2115
+Zimbabwe,2007,2109
+Zimbabwe,2008,2094
+Zimbabwe,2009,2147
+Zimbabwe,2010,2168
+Zimbabwe,2011,2200
+Zimbabwe,2012,2197
+Zimbabwe,2013,2110
+Zimbabwe,2014,1986
+Zimbabwe,2015,1912
+Zimbabwe,2016,1885
+Zimbabwe,2017,1891
+Zimbabwe,2018,1908
