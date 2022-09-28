@@ -1,4 +1,4 @@
-Country,Export (US$ Thousand),Export Product Share (%),World Growth (%)
+Country,Export_thou,ExportShare,Growth
 United States,91224822.74,3.38,1.74
 United Kingdom,57656279.75,6.47,1.27
 Germany,39418155.01,3.62,1.16
