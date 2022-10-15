@@ -1,15 +1,15 @@
 Country,Export_thou,ExportShare,Growth,Colour 
-United States,91224822.74,3.38,1.74,#9e765f
-United Kingdom,57656279.75,6.47,1.27,#dbb1d0
+United States,91224822.74,3.38,1.74,#e5c597
+United Kingdom,57656279.75,6.47,1.27,#ffdc44
 Germany,39418155.01,3.62,1.16,#102b3e
-China,32919802.69,1.7,1.37,#8dd380
+China,32919802.69,1.7,1.37,#8da0cb
 Japan,26128639.73,4.36,-1.25,#ffa5a0
 France,25986043.94,4.74,1.59,#519f9c
 Netherlands,24839801.65,4.58,0.91,#3f3e77
 Canada,23226343.17,5.24,1.48,#5ea756
-Belgium,17340165.52,4.91,1.12,#f58c26
-Italy,14919669.28,3.67,-0.7,#860581
-Russian Federation,13936555.95,4.58,-0.91,#ab8bff
-Spain,13115769.1,4.43,-3.22,#e01ea2
-"Korea, Rep.",12325652.22,2.63,1.66,#807876
-Australia,12058259.76,5.36,0.36,#9ecae9
+Belgium,17340165.52,4.91,1.12,#bebada
+Italy,14919669.28,3.67,-0.7,#b3de69
+Russian Federation,13936555.95,4.58,-0.91,#bc80bd
+Spain,13115769.1,4.43,-3.22,#ccebc5
+"Korea, Rep.",12325652.22,2.63,1.66,#fccde5
+Australia,12058259.76,5.36,0.36,#fc8d62
